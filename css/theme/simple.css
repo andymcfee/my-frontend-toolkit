@@ -50,7 +50,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a:not(.image) {
-  color: darkblue;
+  color: #DB1513;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
@@ -59,7 +59,8 @@ body {
   transition: color .15s ease; }
 
 .reveal a:not(.image):hover {
-  color: #0000f1;
+  color: #AD1212;
+  text-decoration: underline;
   text-shadow: none;
   border: none; }
 
